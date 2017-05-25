@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:id="@+id/Linear"
     android:gravity="center_horizontal"
-    tools:context="emirim0223.kr.hs.emirim.git initcontextmenutest.MainActivity">
+    tools:context="emirim0223.kr.hs.emirim.contextmenutest.MainActivity">
 
     <Button
         android:id="@+id/but1"
